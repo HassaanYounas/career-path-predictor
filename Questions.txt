@@ -1,0 +1,19 @@
+(Number)				CGPA
+(Yes/No)				Did you do webdev during college time?
+(Yes/No) 				Are you good at Data analysis?
+(Excellent/Poor/Medium) Reading and writing skills.
+(Yes/No)				Are you a tech person?
+(Yes/No)				Were you in a non tech society?
+(Yes/No)				Are you good at coding?
+(Yes/No)				Have you developed mobile apps?
+(Yes/No)				Are you good at communication?
+(Yes/No)				Do you have specialization in security?
+(Yes/No)				Have you ever handled large databases?
+(Yes/No)				Do you have knowlege of statistics and data science?
+(Yes/No)				Are you proficient in English?
+(Yes/No)				Have you ever managed some event?
+(Yes/No)				Do you write technical blogs?
+(Yes/No)				Are you into marketing?
+(Yes/No)				Are you a ML expert?
+(Yes/No)				Do you have a lot of connections?
+(Yes/No)				Have you ever built live project?
